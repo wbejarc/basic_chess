@@ -1,2 +1,2 @@
 # basic_chess
-Juego de ajedrez básico. Autores: Béjar Walter, Salas Vanesa
+Juego de ajedrez básico. Autor: Walter Enrique Béjar Chacón
